@@ -1,5 +1,7 @@
 # Olived
 
+https://olived.app
+
 > Olived is bigo live recorder, it can record, download and archive bigo live videos to watch them later in the future.
 
 ## Intro
